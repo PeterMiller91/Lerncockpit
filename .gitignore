@@ -1,0 +1,5 @@
+.next/
+node_modules/
+*.py
+fix_quotes.py
+fix_quotes2.py

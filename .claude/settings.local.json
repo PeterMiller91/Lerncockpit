@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(pip install *)",
+      "Bash(npm --version)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(mv next.config.ts next.config.mjs)",
+      "Bash(echo '/** @type {import\\('\\\\''next'\\\\''\\).NextConfig} */ *)",
+      "Bash(npx next *)",
+      "Bash(python3 *)",
+      "Bash(py *)"
+    ]
+  }
+}
